@@ -1,3 +1,7 @@
+## Live Demo
+Live Link: https://simon-says-game-fahim.netlify.app
+
+
 Simon Says Game :
 
 Project Overview :-
